@@ -1,4 +1,4 @@
-package factory;
+package factory.pizzastore;
 
 public interface Pizza {
     void prepare();

@@ -1,4 +1,4 @@
-package factory;
+package factory.pizzastore;
 
 public class Test {
     public static void main(String[] args) {
