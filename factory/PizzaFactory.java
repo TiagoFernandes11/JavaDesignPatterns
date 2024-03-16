@@ -1,4 +1,4 @@
-package factory.pizzastore;
+package factory;
 
 public class PizzaFactory {
     public static Pizza createPizza(String type) {

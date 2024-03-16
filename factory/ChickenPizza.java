@@ -1,4 +1,4 @@
-package factory.pizzastore;
+package factory;
 
 public class ChickenPizza  implements Pizza{
     @Override
