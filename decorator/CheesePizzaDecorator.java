@@ -7,7 +7,7 @@ public class CheesePizzaDecorator extends PizzaDecorator {
 
     @Override
     public void bake() {
-        super.bake();
         System.out.println("Adding Cheese toppings");
+        super.bake();
     }
 }
